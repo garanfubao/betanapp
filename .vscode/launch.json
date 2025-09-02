@@ -1,0 +1,30 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Run Driver App",
+        "type": "dart",
+        "request": "launch",
+        "program": "betanapp-main/delivery-system/apps/driver_app/main.dart"
+      },
+      {
+        "name": "Run Leader App",
+        "type": "dart",
+        "request": "launch",
+        "program": "betanapp-main/delivery-system/apps/leader_app/main.dart"
+      },
+      {
+        "name": "Run Admin App",
+        "type": "dart",
+        "request": "launch",
+        "program": "betanapp-main/delivery-system/apps/admin_app/main.dart"
+      },
+      {
+        "name": "Run Restaurant App",
+        "type": "dart",
+        "request": "launch",
+        "program": "betanapp-main/delivery-system/apps/restaurant_app/main.dart"
+      }
+    ]
+  }
+  
